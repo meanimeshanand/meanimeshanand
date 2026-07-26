@@ -1,12 +1,3 @@
-<!--
-HOW TO USE THIS FILE:
-1. Create a new GitHub repo named EXACTLY your GitHub username (e.g. if your username is "animesh473", repo name = "animesh473")
-2. Add this content as README.md in that repo
-3. GitHub automatically renders it on your profile page: github.com/<your-username>
-4. Replace every {GITHUB_USERNAME} placeholder below with your real GitHub username
-5. Replace 🔲 items once you have them (capstone repo link, project stats, etc.) — don't fill these in with placeholders, leave them out until real
--->
-
 <p align="center">
   <!-- Reuse or adapt your LinkedIn banner here once you have a GitHub-width version (recommended: 1280x300) -->
   <img src="https://media.licdn.com/dms/image/v2/D5616AQGOZ2fmvw-buQ/profile-displaybackgroundimage-shrink_350_1400/B56Z.eFA7jKIAU-/0/1785063542773?e=1786579200&v=beta&t=lG6PQXFKMhS0ygoQ5B9Gv9ZnmIlsU8AiNS4XYID7QZk" alt="Animesh Anand - Infrastructure Automation to Agentic AI"/>
@@ -16,6 +7,7 @@ HOW TO USE THIS FILE:
   <img src="https://komarev.com/ghpvc/?username=meanimeshanand&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/meanimeshanand?style=social" alt="GitHub followers"/>
 </p>
+
 
 ## Hey, I'm Animesh 👋
 
@@ -38,6 +30,16 @@ I'm now extending that same instinct into **agentic AI** — building infrastruc
 | 🤖 **Agentic Infra Assistant** *(name pending)* | An agent that monitors AWS infrastructure, diagnoses issues via CloudWatch, and takes guarded remediation actions via Claude + MCP tool calls, with human approval gating on destructive actions. | 🔲 In progress |
 
 *(Repo link goes here once live — see the note in the plan file about not linking an empty/placeholder repo.)*
+
+---
+
+## ✍️ Writing & Publishing
+
+*Just getting started here — this section grows as posts actually go live, not before.*
+
+| Piece | Platform | Status |
+|---|---|---|
+| *Topic TBD — likely something from the ignio/automation trenches, or early lessons building an agentic AI project* | LinkedIn Articles | 🔲 Planned |
 
 ---
 
