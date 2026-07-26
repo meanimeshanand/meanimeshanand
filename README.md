@@ -1,0 +1,77 @@
+<!--
+HOW TO USE THIS FILE:
+1. Create a new GitHub repo named EXACTLY your GitHub username (e.g. if your username is "animesh473", repo name = "animesh473")
+2. Add this content as README.md in that repo
+3. GitHub automatically renders it on your profile page: github.com/<your-username>
+4. Replace every {GITHUB_USERNAME} placeholder below with your real GitHub username
+5. Replace 🔲 items once you have them (capstone repo link, project stats, etc.) — don't fill these in with placeholders, leave them out until real
+-->
+
+<p align="center">
+  <!-- Reuse or adapt your LinkedIn banner here once you have a GitHub-width version (recommended: 1280x300) -->
+  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Animesh Anand - Infrastructure Automation to Agentic AI"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meanimeshanand&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/meanimeshanand?style=social" alt="GitHub followers"/>
+</p>
+
+## Hey, I'm Animesh 👋
+
+**Senior Infrastructure Automation Engineer, building toward Agentic AI Infrastructure.**
+
+I've spent 12 years on a deliberate path: **Systems & Infrastructure Administration → Planning, Design, Migration & Implementation → Enterprise Automation Solutions.** Along the way I've worked hands-on with VMware, Citrix, Windows Server, PowerShell, vRealize Automation/Orchestrator, and Digitate ignio — designing and implementing infrastructure-based automation for real enterprise use cases, not just scripting one-off tasks.
+
+I'm now extending that same instinct into **agentic AI** — building infrastructure that doesn't just execute predefined steps, but can reason about system state and act on it safely. That means going deep on AWS, Claude's agent architecture, and the Model Context Protocol (MCP), and applying it to the same kind of infrastructure problems I've spent a career solving.
+
+🎯 **Currently focused on:** Cloud infrastructure (AWS), agentic AI architecture, MCP-based tool design, and AIOps.
+
+---
+
+## 🔨 What I'm Building
+
+*This section grows as projects ship — no placeholders pretending to be finished work.*
+
+| Project | Description | Status |
+|---|---|---|
+| 🤖 **Agentic Infra Assistant** *(name pending)* | An agent that monitors AWS infrastructure, diagnoses issues via CloudWatch, and takes guarded remediation actions via Claude + MCP tool calls, with human approval gating on destructive actions. | 🔲 In progress |
+
+*(Repo link goes here once live — see the note in the plan file about not linking an empty/placeholder repo.)*
+
+---
+
+## 🏅 Certifications
+
+| Category | Certifications |
+|---|---|
+| **Cloud Architecture** | Google Professional Cloud Architect |
+| **Infrastructure as Code** | HashiCorp Certified: Terraform Associate (003) |
+| **DevOps / CI-CD** | GitHub Actions (GH-200), GitHub Advanced Security (GH-300) |
+| **AI / Agentic AI** | Microsoft AI-103, Microsoft AB-100 (Agentic AI Business Solutions Architect), Build with Vertex — Technical Expert Badge |
+| **Automation** | PL-500 (Power Automate RPA Developer Associate) |
+| **In progress** | AWS Certified Solutions Architect – Associate, AWS Certified DevOps Engineer – Professional, Claude Certified Architect |
+
+---
+
+## 🧰 Core Toolset
+
+`PowerShell` `Python` `VMware vSphere` `vRealize Orchestrator` `Digitate ignio` `Control-M` `Microsoft Power Automate` `Terraform` `GitHub Actions` `AWS` `Google Cloud` `Claude API` `MCP`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meanimeshanand&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meanimeshanand&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/meanimeshanand"><img src="https://img.shields.io/badge/LinkedIn-Animesh%20Anand-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="mailto:animesh473@gmail.com"><img src="https://img.shields.io/badge/Email-animesh473%40gmail.com-red?style=flat-square&logo=gmail"/></a>
+</p>
