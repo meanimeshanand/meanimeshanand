@@ -27,7 +27,7 @@ I'm now extending that same instinct into **agentic AI** — building infrastruc
 
 | Project | Description | Status |
 |---|---|---|
-| 🤖 **Agentic Infra Assistant** *(name pending)* | An agent that monitors AWS infrastructure, diagnoses issues via CloudWatch, and takes guarded remediation actions via Claude + MCP tool calls, with human approval gating on destructive actions. | 🔲 In progress |
+| 🤖 **Agentic Infra Assistant** *(name pending)* | 🔲 In progress | 🔲 In progress |
 
 *(Repo link goes here once live — see the note in the plan file about not linking an empty/placeholder repo.)*
 
@@ -39,7 +39,7 @@ I'm now extending that same instinct into **agentic AI** — building infrastruc
 
 | Piece | Platform | Status |
 |---|---|---|
-| *Topic TBD — likely something from the ignio/automation trenches, or early lessons building an agentic AI project* | LinkedIn Articles | 🔲 Planned |
+| *Topic TBD * | LinkedIn Articles / Medium.com | 🔲 Planned |
 
 ---
 
@@ -49,7 +49,7 @@ I'm now extending that same instinct into **agentic AI** — building infrastruc
 |---|---|
 | **Cloud Architecture** | Google Professional Cloud Architect |
 | **Infrastructure as Code** | HashiCorp Certified: Terraform Associate (003) |
-| **DevOps / CI-CD** | GitHub Actions (GH-200), GitHub Advanced Security (GH-300) |
+| **DevOps / CI-CD** | GitHub Actions (GH-200), GitHub Copilot (GH-300) |
 | **AI / Agentic AI** | Microsoft AI-103, Microsoft AB-100 (Agentic AI Business Solutions Architect), Build with Vertex — Technical Expert Badge |
 | **Automation** | PL-500 (Power Automate RPA Developer Associate) |
 | **In progress** | AWS Certified Solutions Architect – Associate, AWS Certified DevOps Engineer – Professional, Claude Certified Architect |
