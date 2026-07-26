@@ -9,7 +9,7 @@ HOW TO USE THIS FILE:
 
 <p align="center">
   <!-- Reuse or adapt your LinkedIn banner here once you have a GitHub-width version (recommended: 1280x300) -->
-  <img src="YOUR_BANNER_IMAGE_URL_HERE" alt="Animesh Anand - Infrastructure Automation to Agentic AI"/>
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGOZ2fmvw-buQ/profile-displaybackgroundimage-shrink_350_1400/B56Z.eFA7jKIAU-/0/1785063542773?e=1786579200&v=beta&t=lG6PQXFKMhS0ygoQ5B9Gv9ZnmIlsU8AiNS4XYID7QZk" alt="Animesh Anand - Infrastructure Automation to Agentic AI"/>
 </p>
 
 <p align="center">
