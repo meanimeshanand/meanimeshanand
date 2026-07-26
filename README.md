@@ -49,10 +49,10 @@ I'm now extending that same instinct into **agentic AI** — building infrastruc
 |---|---|
 | **Cloud Architecture** | Google Professional Cloud Architect |
 | **Infrastructure as Code** | HashiCorp Certified: Terraform Associate (003) |
-| **DevOps / CI-CD** | GitHub Actions (GH-200), GitHub Copilot (GH-300) |
-| **AI / Agentic AI** | Microsoft AI-103, Microsoft AB-100 (Agentic AI Business Solutions Architect), Build with Vertex — Technical Expert Badge |
-| **Automation** | PL-500 (Power Automate RPA Developer Associate) |
-| **In progress** | AWS Certified Solutions Architect – Associate, AWS Certified DevOps Engineer – Professional, Claude Certified Architect |
+| **DevOps / CI-CD** | GitHub Actions , GitHub Copilot |
+| **AI / Agentic AI** | Microsoft Certified: Azure AI Apps and Agents Developer Associate, Microsoft certified: Agentic AI Business Solutions Architect, Build with Vertex — Technical Expert Badge |
+| **Automation** | Microsoft Certified: Power Automate RPA Developer Associate |
+| **In progress** | Claude Certified Architect |
 
 ---
 
